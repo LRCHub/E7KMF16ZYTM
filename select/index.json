@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜をループ",
+  "base_artist": "佐藤千亜妃",
+  "createdAt": "2026-02-15T12:48:30.255800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜をループ",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/01_夜をループ_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜をループ",
+      "artist": "佐藤千亜妃",
+      "has_synced": false,
+      "path": "select/pl_01_夜をループ_佐藤千亜妃.txt"
+    }
+  ]
+}
